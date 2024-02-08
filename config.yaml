@@ -1,0 +1,24 @@
+credentials:
+  usernames:
+    linkddd:
+      email: jsmith@gmail.com
+      logged_in: False # Will be managed automatically
+      name: Link Ding
+      password: abc # Will be hashed automatically
+    rbriggs:
+      email: rbriggs@gmail.com
+      logged_in: False # Will be managed automatically
+      name: Rebecca Briggs
+      password: def # Will be hashed automatically
+    jsmith:
+      email: rbriggs@gmail.com
+      logged_in: False # Will be managed automatically
+      name: Rebecca Briggs
+      password: abc # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: timegptgogogo # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
